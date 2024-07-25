@@ -85,10 +85,11 @@ Base repair and pTex - once you get enough experience, you can play with repairi
 - ptex candles
 - metal scraper
 - lighter
-- razor blades, sand paper (fine) and the likes to take down the excess.
+- razor blades, sandpaper (fine), and the likes to take down the excess.
 
 ## More...
 
 The attached Toko manual has basic information.
 
-[TokoWaxManual_E-1-.pdf](Ski%20Tuning%20feef8bd3833a40ec9be22d8cec7c54af/TokoWaxManual_E-1-.pdf)
+![[TokoWaxManual_E-1-.pdf]]
+
