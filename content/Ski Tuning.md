@@ -1,3 +1,4 @@
+![[Pasted image 20241023142627.png]]
 # General Notes
 
 Here's the basic gear you'll need to get started and some notes.

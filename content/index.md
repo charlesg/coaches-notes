@@ -7,5 +7,5 @@ This is a collection of notes and references from my years as an alpine race coa
 
 There are three essential sections:
 - [[Ski Tuning]]
-- Equipment Guidelines
+- [[Equipment Guidelines]]
 - A Drill List
