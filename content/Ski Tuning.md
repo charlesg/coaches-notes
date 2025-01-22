@@ -14,8 +14,9 @@ General notes:
 ## Base stuff
 
 - A table or work surface. Any workbench can do. Some tables are too low. A little higher than a standard table makes it easier to work on. I use a Swix portable table I can take to races.
-- A good set of vises... That's not one to skimp on. A good one makes a difference. I use primarily the **Toko World Cup** and I have a second set for when we tune in pairs:
+- A good set of vises... That's not one to skimp on. A good one makes a difference. I use primarily the **[Toko World Cup](https://tokous.com/ski-vise-world-cup/)** and I have a second set for when we tune in pairs:
 	- ![[Untitled.png]]
+	- https://tokous.com/ski-vise-world-cup/
 
 - Break retainers (rubber bands)
 - Iron for waxing
