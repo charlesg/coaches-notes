@@ -1,0 +1,23 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - Skiils_Quest
+      - Notes
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Skiils_Quest
+        direction: DESC
+      - property: formula.Untitled
+        direction: ASC
+      - property: tags
+        direction: DESC
+    columnSize:
+      note.tags: 352
+      note.Skiils_Quest: 247
+      note.Notes: 355
