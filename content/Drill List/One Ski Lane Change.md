@@ -4,12 +4,6 @@ Tags:
   - EDGING
 Skiils_Quest: Phase 4
 ---
-# One Ski Lane Change
-
-Tags: BALANCE, EDGING
-Rating: *****
-Skills Quest: Phase 4
-
 Look for:
 
 - Consistent speed, consistent turn shape

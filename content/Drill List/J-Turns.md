@@ -3,10 +3,6 @@ Tags:
   - CARVING
   - EDGING
 ---
-# J-Turns
-
-Tags: CARVING
-
 Start going straight down, on a blue run. As you get a bit of speed, quickly look up to make sure nobody is coming and tip the skis to the right (or left, depending on which side of the slope you are).
 
 As you edge the skis more and more, they will start to carve and turn across the slope - keep turning until the skis go uphill and stop. As they stop, turn around and start a J turn going the other way.

@@ -2,11 +2,6 @@
 Tags:
   - PRESSURE
 ---
-# Whirlybirds
-
-Tags: PRESSURE
-Rating: ****
-
 On a groomed easy slope, spin around 360 degrees.
 
 - Keep skis parallel
