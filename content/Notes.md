@@ -10,5 +10,6 @@ These are private notes, not to be published.
 
 To sync Git and publish:
 ```bash
+cd ~/git/quartz/
 npx quartz sync
 ```
