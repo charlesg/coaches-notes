@@ -15,3 +15,4 @@ npx quartz sync
 ```
 
 Modifying these notes to re-sync.
+Last modification 25-11-08 at 15:56.
