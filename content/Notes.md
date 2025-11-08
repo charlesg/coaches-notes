@@ -13,3 +13,5 @@ To sync Git and publish:
 cd ~/git/quartz/
 npx quartz sync
 ```
+
+Modifying these notes to re-sync.
